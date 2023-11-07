@@ -1,3 +1,3 @@
 # docker-template
 
-## Dockerized a react project
+ Dockerized a react project
